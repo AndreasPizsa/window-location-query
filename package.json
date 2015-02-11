@@ -1,0 +1,43 @@
+{
+  "name": "window-location-query",
+  "description": "JavaScript window location",
+  "version": "0.1.0",
+  "homepage": "https://github.com/AndreasPizsa/window-location-query",
+  "author": {
+    "name": "Andreas Pizsa",
+    "url": "http://github.com/AndreasPizsa"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/AndreasPizsa/window-location-query.git"
+  },
+  "bugs": {
+    "url": "https://github.com/AndreasPizsa/window-location-query/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/AndreasPizsa/window-location-query/blob/master/LICENSE-MIT"
+    }
+  ],
+  "main": "index.js",
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "mocha -R spec"
+  },
+  "devDependencies": {
+    "verb": ">= 0.2.6",
+    "mocha": "*"
+  },
+  "keywords": [
+    "docs",
+    "documentation",
+    "generate",
+    "generator",
+    "markdown",
+    "templates",
+    "verb"
+  ]
+}
