@@ -29,7 +29,7 @@
   },
   "devDependencies": {
     "verb": ">= 0.2.6",
-    "mocha": "*"
+    "mocha": ">=6.0.2"
   },
   "keywords": [
     "docs",
